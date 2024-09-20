@@ -1,0 +1,48 @@
+read_date,user_uuid,category,journalist_id,language,length,country,subscription_date,platform,article_id,stars,read_month,art,economy,finance,lifestyle,news,sport,weather,counts,persona
+2021-02-25,243,art,117,it,short,it,2020-08-24,tablet,5128,3,February,1,0,0,0,0,0,0,2,Art Expert - Alessandro Orlando
+2021-02-21,230,art,112,it,long,it,2020-01-09,tablet,532353,4,February,1,0,0,0,0,0,0,2,Art Expert - Alessandro Orlando
+2021-07-08,157,weather,111,it,long,it,2020-02-12,tablet,732766,5,July,0,1,0,0,0,0,2,1,Casual Reader - Chiara
+2021-04-14,157,economy,110,it,short,it,2020-02-12,pc,212930,5,April,0,1,0,0,0,0,2,1,Casual Reader - Chiara
+2021-10-28,157,weather,116,it,short,it,2020-02-12,pc,712540,1,October,0,1,0,0,0,0,2,1,Casual Reader - Chiara
+2021-11-17,138,finance,111,it,short,it,2020-04-06,pc,612403,3,November,0,0,1,1,0,0,0,1,Casual Reader - Chiara
+2021-10-05,138,lifestyle,116,it,long,it,2020-04-06,mobile,132857,1,October,0,0,1,1,0,0,0,1,Casual Reader - Chiara
+2021-10-04,94,news,103,it,long,it,2020-03-24,pc,632117,5,October,0,0,0,0,2,0,1,1,Casual Reader - Chiara
+2021-02-02,94,news,105,it,medium,it,2020-03-24,mobile,622926,4,February,0,0,0,0,2,0,1,1,Casual Reader - Chiara
+2021-02-19,94,weather,115,it,short,it,2020-03-24,mobile,712644,2,February,0,0,0,0,2,0,1,1,Casual Reader - Chiara
+2021-07-27,69,finance,106,it,medium,it,2020-08-23,tablet,622487,4,July,0,0,1,0,0,0,0,5,Finance Professional - Mario Draghi
+2021-08-01,146,finance,104,it,long,it,2020-04-26,mobile,632262,5,August,0,0,1,0,0,0,0,5,Finance Professional - Mario Draghi
+2021-10-23,60,finance,105,it,short,it,2020-11-10,mobile,612498,2,October,0,0,1,0,0,0,0,5,Finance Professional - Mario Draghi
+2021-05-18,76,finance,105,it,short,it,2020-05-14,tablet,612595,1,May,0,0,1,0,0,0,0,5,Finance Professional - Mario Draghi
+2021-11-14,34,finance,113,it,medium,it,2020-12-10,pc,622676,4,November,0,0,1,0,0,0,0,5,Finance Professional - Mario Draghi
+2021-07-01,98,weather,103,it,long,it,2020-09-26,mobile,732585,5,July,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-08-11,19,weather,112,it,long,it,2020-04-12,tablet,732220,2,August,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-06-02,110,weather,110,it,medium,it,2020-01-06,pc,722139,4,June,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-09-12,223,weather,104,it,medium,it,2020-12-01,pc,722706,2,September,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-12-12,206,weather,101,it,short,it,2020-11-07,pc,712275,3,December,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-03-13,84,weather,121,it,short,it,2020-06-09,tablet,712389,1,March,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-08-05,226,weather,112,it,short,it,2020-10-04,mobile,712699,4,August,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-11-22,77,weather,106,it,long,it,2020-06-01,mobile,732297,5,November,0,0,0,0,0,0,1,8,Weather Guru - Mario Giuliacci
+2021-12-06,209,sport,102,it,long,it,2020-07-06,mobile,332441,1,December,0,0,0,1,0,1,1,1,Casual Reader - Chiara
+2021-09-09,209,weather,116,it,long,it,2020-07-06,mobile,732865,1,September,0,0,0,1,0,1,1,1,Casual Reader - Chiara
+2021-10-01,209,lifestyle,120,it,short,it,2020-07-06,pc,112793,5,October,0,0,0,1,0,1,1,1,Casual Reader - Chiara
+2021-01-09,53,lifestyle,114,it,short,it,2020-10-08,pc,112451,2,January,0,0,0,1,0,0,0,3,Lifestyle Addicted - Chiara Ferragni
+2021-04-18,24,lifestyle,117,it,short,it,2020-09-09,tablet,112999,3,April,0,0,0,1,0,0,0,3,Lifestyle Addicted - Chiara Ferragni
+2021-11-21,151,lifestyle,110,it,long,it,2020-12-02,tablet,132103,1,November,0,0,0,1,0,0,0,3,Lifestyle Addicted - Chiara Ferragni
+2021-09-17,39,lifestyle,110,it,long,it,2020-08-03,pc,132524,3,September,0,0,0,2,0,0,0,1,Lifestyle Addicted - Chiara Ferragni
+2021-01-06,39,lifestyle,107,it,long,it,2020-08-03,tablet,132431,5,January,0,0,0,2,0,0,0,1,Lifestyle Addicted - Chiara Ferragni
+2021-10-12,185,news,114,it,long,it,2020-10-21,tablet,632880,5,October,0,0,0,0,1,0,0,3,News Reader - Enrico Mentana
+2021-06-17,144,news,108,it,short,it,2020-04-13,pc,612262,5,June,0,0,0,0,1,0,0,3,News Reader - Enrico Mentana
+2021-06-18,181,news,109,it,long,it,2020-12-09,pc,632901,1,June,0,0,0,0,1,0,0,3,News Reader - Enrico Mentana
+2021-03-23,187,news,112,it,long,it,2020-05-03,pc,632745,4,March,0,0,1,0,1,0,0,1,Casual Reader - Chiara
+2021-02-17,187,finance,116,it,long,it,2020-05-03,mobile,632483,1,February,0,0,1,0,1,0,0,1,Casual Reader - Chiara
+2021-02-08,212,finance,120,it,short,it,2020-02-27,mobile,612318,2,February,1,0,1,0,0,0,0,1,Casual Reader - Chiara
+2021-02-06,212,art,116,it,long,it,2020-02-27,mobile,5329,5,February,1,0,1,0,0,0,0,1,Casual Reader - Chiara
+2021-07-24,172,economy,111,it,short,it,2020-04-22,mobile,2129,4,July,0,1,1,0,0,0,0,2,Economy and Finance Researcher - Prof. Filippo Cossetti
+2021-11-25,172,finance,122,it,medium,it,2020-04-22,pc,622992,4,November,0,1,1,0,0,0,0,2,Economy and Finance Researcher - Prof. Filippo Cossetti
+2021-08-13,199,economy,113,it,medium,it,2020-07-27,tablet,222319,1,August,0,1,1,0,0,0,0,2,Economy and Finance Researcher - Prof. Filippo Cossetti
+2021-03-14,199,finance,117,it,short,it,2020-07-27,tablet,612544,1,March,0,1,1,0,0,0,0,2,Economy and Finance Researcher - Prof. Filippo Cossetti
+2021-11-15,48,sport,105,it,short,it,2020-10-21,pc,312550,5,November,0,0,0,0,0,1,1,1,Casual Reader - Chiara
+2021-01-27,48,weather,114,it,medium,it,2020-10-21,tablet,722526,5,January,0,0,0,0,0,1,1,1,Casual Reader - Chiara
+2021-08-13,57,sport,120,it,long,it,2020-07-11,mobile,332311,1,August,0,0,0,0,0,1,0,2,Sports Enthusiast - Gimbo Tamberi
+2021-03-19,115,sport,113,it,medium,it,2020-01-08,mobile,32221,2,March,0,0,0,0,0,1,0,2,Sports Enthusiast - Gimbo Tamberi
+2021-09-26,224,economy,117,it,short,it,2020-06-04,pc,212474,4,September,0,1,0,0,0,0,0,1,Casual Reader - Chiara
